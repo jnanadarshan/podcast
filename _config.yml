@@ -1,10 +1,10 @@
 title: Episodes
 description: Tech Odisha Podcast | Odisha's 1st Technology Podcast
-author: Jnanadarshan Nayak
+author: Tech Odisha Podcast
 github: https://github.com/jnanadarshan
 about: This is "Tech Odisha". Odisha's first ever Technology Podcast
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+disqus_shortname: https-odisha-top
+google_analytics: UA-126633541-1
 
 enableTags: true
 tagarray: []
@@ -16,9 +16,9 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "#"
+      link: "https://www.facebook.com/odishaFirstOfficial/"
     - icon: fa-twitter
-      link: "#"
+      link: "https://www.twitter.com/omyOishaFirst/"
     - icon: fa-linkedin
       link: "#"
     - icon: fa-stack-exchange
