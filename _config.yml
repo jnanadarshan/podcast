@@ -31,9 +31,9 @@ share:
   fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
+    - text: About TOP
       url: /about/
-    - text: My Projects
+    - text: Odisha Podcast
       url: /projects/
     - text: XML Feed
       url: /feed.xml
