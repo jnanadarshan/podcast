@@ -38,8 +38,8 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://jnanadarshan.github.io/tech.odisha.top"
-baseurl: ""
+url: "https://jnanadarshan.github.io"
+baseurl: "/podcast"
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
