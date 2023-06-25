@@ -39,7 +39,7 @@ urls:
       url: /feed.xml
 
 url: "https://jnanadarshan.github.io"
-baseurl: "tech.odisha.top"
+baseurl: "/tech.odisha.top"
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
